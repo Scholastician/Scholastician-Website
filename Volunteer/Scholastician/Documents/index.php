@@ -156,10 +156,10 @@
                         <div class="col-lg-12">
                             <div class="header-social-icon">
                                 <ul>
-                                  <li><a href="https://www.facebook.com/Scholastician-111874543877312"><i class="lni-facebook-filled"></i></a></li>
-                                  <li><a href="https://www.instagram.com/v_scholastician/?hl=en"><i class="lni-instagram-filled"></i></a></li>
-                                  <li><a href="https://twitter.com/v_scholastician"><i class="lni-twitter-original"></i></a></li>
-                                  <li><a href="https://www.linkedin.com/company/65567603"><i class="lni-linkedin-original"></i></a></li>
+                                  <li><a href="https://www.facebook.com/Scholastician-111874543877312" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                                  <li><a href="https://www.instagram.com/v_scholastician/?hl=en" target="_blank"><i class="lni-instagram-filled"></i></a></li>
+                                  <li><a href="https://twitter.com/v_scholastician" target="_blank"><i class="lni-twitter-original"></i></a></li>
+                                  <li><a href="https://www.linkedin.com/company/65567603" target="_blank"><i class="lni-linkedin-original"></i></a></li>
                                 </ul>
                             </div> <!-- header social -->
                         </div>
@@ -459,9 +459,7 @@
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Founders</h6>
-
-                            <p>Nihal Bhatnagar, Pranay Shah, Pavan Alluri, Abhinav Bichal</p>
-
+                            <p>Nihal Bhatnagar, Pranay Shah, Pavan Alluri, Abhinav Bichal, & Yatin Pokle</p>
                         </div>
                     </div> <!-- contact box -->
                 </div>
@@ -474,6 +472,8 @@
                             <h6 class="contact-title">Location</h6>
                             <p>Plano, Texas</p>
                             <br>
+                            <br>
+
                         </div>
                     </div> <!-- contact box -->
                 </div>
@@ -484,9 +484,10 @@
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Email</h6>
-                            <p>support@scholastician.org</p>
-
-                            <br
+                            <a href="mailto:support@scholastician.org"><p>support@scholastician.org</p>
+                                <br>
+                                <br>
+                            </a>
                         </div>
                     </div> <!-- contact box -->
                 </div>
@@ -510,10 +511,10 @@
                             </a>
                             <p class="mt-">Empowering Students for a Better Tomorrow</p>
                             <ul>
-                                <li><a href="https://www.facebook.com/Scholastician-111874543877312"><i class="lni-facebook-filled"></i></a></li>
-                                <li><a href="https://www.instagram.com/v_scholastician/?hl=en"><i class="lni-instagram-filled"></i></a></li>
-                                <li><a href="https://twitter.com/v_scholastician"><i class="lni-twitter-original"></i></a></li>
-                                <li><a href="https://www.linkedin.com/company/65567603"><i class="lni-linkedin-original"></i></a></li>
+                                <li><a href="https://www.facebook.com/Scholastician-111874543877312" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                                <li><a href="https://www.instagram.com/v_scholastician/?hl=en" target="_blank"><i class="lni-instagram-filled"></i></a></li>
+                                <li><a href="https://twitter.com/v_scholastician" target="_blank"><i class="lni-twitter-original"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/65567603" target="_blank"><i class="lni-linkedin-original"></i></a></li>
                             </ul>
                         </div> <!-- footer content -->
                     </div>
@@ -525,7 +526,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-text text-center pt-20">
-                            <p>Copyright © Scholastician 2020.</p>
+                            <p>Copyright © Scholastician 2020</p>
                         </div> <!-- copyright text -->
                     </div>
                 </div> <!-- row -->

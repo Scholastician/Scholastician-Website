@@ -1,4 +1,7 @@
 /* Deafult Margin & Padding */
+smallBreak {
+	line-height: 1px;
+}
 /*-- Margin Top --*/
 .mt-5 {
 	margin-top: 5px;
