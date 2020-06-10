@@ -334,7 +334,7 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] != '1')
      <!--====== ABOUT PART START ======-->
 
        <footer id="footer" class="footer-area">
-         <div class="footer-widget pt-130 pb-130">
+           <div class="footer-widget pt-40 pb-40">
              <div class="container">
                  <div class="row justify-content-center">
                      <div class="col-lg-8">
