@@ -468,11 +468,12 @@
                         <div class="contact-icon">
                             <i class="lni-map-marker"></i>
                         </div>
-                        <div class="contact-content">
+                        <div class="contact-content mb-10">
                             <h6 class="contact-title">Location</h6>
                             <p>Plano, Texas</p>
                             <br>
                             <br>
+
 
                         </div>
                     </div> <!-- contact box -->
@@ -482,11 +483,12 @@
                         <div class="contact-icon">
                             <i class="lni-envelope"></i>
                         </div>
-                        <div class="contact-content">
+                        <div class="contact-content mb-10">
                             <h6 class="contact-title">Email</h6>
                             <a href="mailto:support@scholastician.org"><p>support@scholastician.org</p>
                                 <br>
                                 <br>
+
                             </a>
                         </div>
                     </div> <!-- contact box -->
