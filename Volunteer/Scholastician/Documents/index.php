@@ -455,7 +455,7 @@
                 <div class="col-lg-4 col-md-6 col-sm-7">
                     <div class="contact-box text-center mt-30">
                         <div class="contact-icon">
-                            <i class="lni-magnifier"></i>
+                            <i class="lni-network"></i>
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Founders</h6>
