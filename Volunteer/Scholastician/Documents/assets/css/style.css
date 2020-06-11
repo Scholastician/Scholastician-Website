@@ -46,7 +46,10 @@ body {
 
 img {
   max-width: 100%; }
-
+a{
+  text-decoration: none;
+  color:#8a8fa3;
+}
 a:focus,
 input:focus,
 textarea:focus,
@@ -56,7 +59,9 @@ button:focus {
 
 a:focus,
 a:hover {
-  text-decoration: none; }
+  text-decoration: none;
+  color: #754ef9;
+  }
 
 i,
 span,
@@ -155,7 +160,7 @@ p {
     -moz-box-shadow: none;
     box-shadow: none; }
     .main-btn.main-btn-2:hover {
-      background-color: #754ef9;
+      background-color: #fff;
       color: #fff;
       border-color: #754ef9; }
 
@@ -976,7 +981,7 @@ p {
       background-color: transparent;
       border-color: #fff; }
       .call-action-content ul li .main-btn.custom-2:hover {
-        background-color: rgba(255, 255, 255, 0.5);
+        background-color: #754ef9;
         color: #fff;
         border-color: #fff; }
 
