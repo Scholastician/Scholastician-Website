@@ -331,7 +331,7 @@
                 <div class="col-lg-8">
                     <div class="section-title text-center pb-30">
                         <h2 class="title">Students</h2>
-                        <p>Students should register and login here for our matching program. Once you are paired with a tutor, we will send one email to both of you, so that you can communicate with each other. Please contact us via email or through the contact page on our website if you have any issues during your tutoring session. </p>
+                        <p>Students should register and login here for our matching program. Once you are paired with a tutor, we will send one email to both of you, so that you can communicate with each other. Please contact us via email if you have any issues during your tutoring session. </p>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
@@ -385,7 +385,7 @@
                 <div class="col-lg-8">
                     <div class="section-title text-center pb-30">
                         <h2 class="title">Tutors</h2>
-                        <p>Tutors should register and login here for our matching program. Once your credentials are checked and you are paired with a student, we will send one email to both of you, so that you can communicate with each other. If you need volunteer hours, please request them from the student. Please contact us via email or through the contact page on our website if you have any issues during your tutoring session. </p>
+                        <p>Tutors should register and login here for our matching program. Once your credentials are checked and you are paired with a student, we will send one email to both of you, so that you can communicate with each other. If you need volunteer hours, please request them from the student. Please contact us via email if you have any issues during your tutoring session. </p>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
