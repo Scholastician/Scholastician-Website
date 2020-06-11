@@ -459,7 +459,8 @@
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Founders</h6>
-                            <p>Nihal Bhatnagar, Pavan Alluri, Pranay Shah, Abhinav Bichal, & Yatin Pokle</p>
+                            <p><a href="https://www.linkedin.com/in/nihal-bhatnagar-5361901a2/" target="_blank">Nihal Bhatnagar</a>, <a href="https://www.linkedin.com/in/alluri-pavan/" target="_blank">Pavan Alluri</a>,
+                                <a href="https://www.linkedin.com/in/pranay-shah/" target="_blank"> Pranay Shah</a>, Abhinav Bichal, & <a href="https://www.linkedin.com/in/yatin-pokle-225b5a1a0/" target="_blank"> Yatin Pokle</a></p>
                         </div>
                     </div> <!-- contact box -->
                 </div>
@@ -485,11 +486,8 @@
                         </div>
                         <div class="contact-content mb-10">
                             <h6 class="contact-title">Email</h6>
-                            <a href="mailto:support@scholastician.org"><p>support@scholastician.org</p>
-                                <br>
-                                <br>
-
-                            </a>
+                            <a href="mailto:support@scholastician.org">support@scholastician.org </a>
+                               <p> <br> <br> </p> 
                         </div>
                     </div> <!-- contact box -->
                 </div>
