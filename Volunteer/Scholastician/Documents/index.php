@@ -174,7 +174,7 @@
     <!--====== ABOUT PART START ======-->
     <!--====== ABOUT PART START ======-->
 
-        <section id="about" class="about-area pt-125 pb-130">
+        <section id="about" class="about-area pt-95 pb-100">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
@@ -189,7 +189,7 @@
                     <div class="col-lg-6">
                         <div class="about-content mt-50">
                             <h5 class="about-title">We can help in many courses!</h5>
-                            <p>We are currently offering assistance in numerous on-level, PAP, & AP courses. We will match students to certified tutors for the selected courses. Additionally, we offer tutoring in the SAT and ACT.</p>
+                            <p>We are currently offering assistance in numerous on-level, PAP, & AP courses. We will match students to certified tutors for the selected courses. Additionally, we offer tutoring for the SAT and ACT.</p>
                             <ul class="clearfix">
                                 <li>
                                     <div class=" d-flex align-items-center">
@@ -325,7 +325,7 @@
         <!--====== ABOUT PART ENDS ======-->
     <!--====== STUDENT PART START ======-->
 
-    <section id="student" class="services-area gray-bg pt-125 pb-130">
+    <section id="student" class="services-area gray-bg pt-100 pb-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
@@ -379,7 +379,7 @@
     <!--====== STUDENT PART ENDS ======-->
     <!--====== TUTOR PART START ======-->
 
-    <section id="tutor" class="services-area gray-bg pt-90 pb-130">
+    <section id="tutor" class="services-area gray-bg pt-30 pb-100">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
@@ -441,7 +441,7 @@
 
     <!--====== CONTACT PART START ======-->
 
-    <section id="contact" class="contact-area pt-125 pb-130 white-bg">
+    <section id="contact" class="contact-area pt-100 pb-130 white-bg">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
@@ -455,12 +455,12 @@
                 <div class="col-lg-4 col-md-6 col-sm-7">
                     <div class="contact-box text-center mt-30">
                         <div class="contact-icon">
-                            <i class="lni-phone"></i>
+                            <i class="lni-magnifier"></i>
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Founders</h6>
                             <p><a href="https://www.linkedin.com/in/nihal-bhatnagar-5361901a2/" target="_blank">Nihal Bhatnagar</a>, <a href="https://www.linkedin.com/in/alluri-pavan/" target="_blank">Pavan Alluri</a>,
-                                <a href="https://www.linkedin.com/in/pranay-shah/" target="_blank"> Pranay Shah</a>, Abhinav Bichal, & <a href="https://www.linkedin.com/in/yatin-pokle-225b5a1a0/" target="_blank"> Yatin Pokle</a></p>
+                                <a href="https://www.linkedin.com/in/pranay-shah/" target="_blank"> Pranay Shah</a>, <a href="https://www.linkedin.com/in/abhinav-bichal-64687a1a8/" target="_blank">Abhinav Bichal</a>, & <a href="https://www.linkedin.com/in/yatin-pokle-225b5a1a0/" target="_blank"> Yatin Pokle</a></p>
                         </div>
                     </div> <!-- contact box -->
                 </div>
@@ -469,11 +469,9 @@
                         <div class="contact-icon">
                             <i class="lni-map-marker"></i>
                         </div>
-                        <div class="contact-content mb-10">
+                        <div class="contact-content mb-55">
                             <h6 class="contact-title">Location</h6>
                             <p>Plano, Texas</p>
-                            <br>
-                            <br>
 
 
                         </div>
@@ -484,10 +482,9 @@
                         <div class="contact-icon">
                             <i class="lni-envelope"></i>
                         </div>
-                        <div class="contact-content mb-10">
+                        <div class="contact-content mb-58">
                             <h6 class="contact-title">Email</h6>
                             <a href="mailto:support@scholastician.org">support@scholastician.org </a>
-                               <p> <br> <br> </p> 
                         </div>
                     </div> <!-- contact box -->
                 </div>
