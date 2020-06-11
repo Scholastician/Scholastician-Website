@@ -48,8 +48,7 @@ img {
   max-width: 100%; }
 a{
   text-decoration: none;
-  color: #8a8fa3;
-  display: inline-block;
+  color:#8a8fa3;
 }
 a:focus,
 input:focus,
@@ -66,6 +65,9 @@ a:hover {
 
 i,
 span,
+a {
+  display: inline-block; }
+
 h1,
 h2,
 h3,
