@@ -59,6 +59,8 @@ $sql = "SELECT  username  FROM userinfo WHERE username = ?";
 
 // Attempt insert query execution
 $sql = "INSERT INTO userinfo (Name, Email, PN, SAT, Grade, ACT, Username, Password, student) VALUES ('$name', '$email','$phone', '$SAT', '$grade', '$ACT', '$user', '$pass','0')";
+
+
 if(mysqli_query($link, $sql)){
     echo "<script type='text/javascript'>alert('Succesfully Registered.');</script>";
     session_start();
@@ -89,9 +91,20 @@ if(mysqli_query($link, $sql)){
     $id = $row['id'];
     echo $user;
     $_SESSION['id'] = $id;
+    if(isset($_POST['submit'])){
+        $file = $_FILES['file'];
+        $file_name = $file['name'];
+        $file_type = $file ['type'];
+        $file_size = $file ['size'];
+        $file_path = $file ['tmp_name'];
+        $target_dir = 'assets/transcripts/'.$file_name;
+        $file_name = strval($id).$file_name;
+        move_uploaded_file($file_path, $target_dir);
+        
+    }
     $_SESSION['username'] = $user;
     echo $_SESSION['username'];
-    header("Location: tutorHomePage.php");
+    header("Location: tutorHomePage.php?success");
 } else{
     echo "ERROR: Could not able to execute $sql. " . mysqli_error($link);
 }

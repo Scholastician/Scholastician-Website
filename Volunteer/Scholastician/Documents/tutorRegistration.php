@@ -89,7 +89,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="contact-form pt-30">
-                        <form id="contact-form" action="insertTutor.php" onsubmit="return checkPasswordSame(this)">
+                        <form id="contact-form" action="insertTutor.php" method="POST" onsubmit="return checkPasswordSame(this)" enctype="multipart/form-data">
                           <div class="single-form">
                             <?php if (isset($name_error)) {
 
@@ -132,12 +132,9 @@
                                 <input type="number" name="ACT" placeholder="ACT Score" min = "0" max = "36">
                             </div>
                             <div>
-                                <form action="insertTranscript.php" method="post" enctype="multipart/form-data">
-                                    <br>
-                                    <h5>Grades/Transcript: </h5>
-                                    <input type="file" name="fileToUpload" id="fileToUpload">
-                                    <input type="submit" value="Upload Image" name="submit">
-                                </form>
+                                <br>
+                                <h5>Grades/Transcript: </h5>
+                                <input type="file" name="file">
                             </div>
                             <p class="form-message"> <br>  <br>Please ensure all content is filled and accurate before submitting</p>
                             <div class="single-form">
