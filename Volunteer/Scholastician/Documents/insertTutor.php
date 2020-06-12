@@ -18,7 +18,16 @@ $SAT = mysqli_real_escape_string($link, $_REQUEST['SAT']);
 $ACT = mysqli_real_escape_string($link, $_REQUEST['ACT']);
 $user = mysqli_real_escape_string($link, $_REQUEST['username']);
 $pass = mysqli_real_escape_string($link, $_REQUEST['password']);
-
+if(isset($_POST['submit'])){
+    $file = $_FILES['file'];
+    $file_name = $file['name'];
+    $file_type = $file ['type'];
+    $file_size = $file ['size'];
+    $file_path = $file ['tmp_name'];
+    $file_newname = $name.$file_name;
+    $target_dir = 'assets/transcripts/'.$file_newname;
+    move_uploaded_file($file_path, $target_dir);
+}
 
 //check if username already exists
 $sql = "SELECT  username  FROM userinfo WHERE username = ?";
@@ -49,7 +58,7 @@ $sql = "SELECT  username  FROM userinfo WHERE username = ?";
 
                  {
 
-                      echo "<script>alert('Username Already Taken. Please try another Username and sumbit again'); document.location='tutorRegistration.php'</script>";
+                      echo "<script>alert('Username Already Taken. Please try another Username and submit again'); document.location='tutorRegistration.php'</script>";
                    }
           }
   }
@@ -58,17 +67,6 @@ $sql = "SELECT  username  FROM userinfo WHERE username = ?";
 
 // Attempt insert query execution
 $sql = "INSERT INTO userinfo (Name, Email, PN, SAT, Grade, ACT, Username, Password, student) VALUES ('$name', '$email','$phone', '$SAT', '$grade', '$ACT', '$user', '$pass','0')";
-if(isset($_POST['submit'])){
-    $file = $_FILES['file'];
-    $file_name = $file['name'];
-    $file_type = $file ['type'];
-    $file_size = $file ['size'];
-    $file_path = $file ['tmp_name'];
-    $file_newname = $name.$file_name;
-    $target_dir = 'assets/transcripts/'.$file_newname;
-    move_uploaded_file($file_path, $target_dir);
-
-}
 
 if(mysqli_query($link, $sql)){
     echo "<script type='text/javascript'>alert('Succesfully Registered.');</script>";
