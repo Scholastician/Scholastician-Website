@@ -101,11 +101,11 @@
                           </div>
                           <div class="single-form">
                             <h5 class="about-title">Password</h5>
-                              <input type="password" id = "password" name="password" placeholder="" required>
+                              <input type="password" id = "password" name="password" placeholder="Password" required>
                           </div>
                           <div class="single-form">
                             <h5 class="about-title">Confirm Password</h5>
-                              <input type="password" id = "cpassword" name="cpassword" placeholder="" required>
+                              <input type="password" id = "cpassword" name="cpassword" placeholder="Password" required>
                           </div>
                           <div class="single-form">
                             <h5 class="about-title">Name</h5>
@@ -117,7 +117,7 @@
                           </div> <!-- single form -->
                           <div class="single-form">
                             <h5 class="about-title">Mobile Phone Number</h5>
-                              <input type="number" name="phone_number" placeholder="Phone Number" min = "0" max = "9999999999" required>
+                              <input type="number" name="phone_number" placeholder="Phone Number" min = "0000000000" max = "9999999999" required>
                           </div>
 
                           <div class="single-form">
