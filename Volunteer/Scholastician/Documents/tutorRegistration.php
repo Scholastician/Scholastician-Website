@@ -138,7 +138,7 @@
                             </div>
                             <p class="form-message"> <br>  <br>Please ensure all content is filled and accurate before submitting</p>
                             <div class="single-form">
-                                <button class="main-btn" type="submit">Register</button>
+                                <button class="main-btn" type="submit" name="submit">Register</button>
                             </div> <!-- single form -->
                         </form>
                     </div> <!-- contact form -->
