@@ -134,7 +134,10 @@
                             <div>
                                 <br>
                                 <h5>Grades/Transcript: </h5>
-                                <input type="file" name="file">
+
+                                <p>In order to ensure the quality of our tutors, you need to upload proof of your certifications. We ask that you please upload a screenshot of all of your grades or a transcript.</p>
+
+                                <input type="file" name="file" required>
                             </div>
                             <p class="form-message"> <br>  <br>Please ensure all content is filled and accurate before submitting</p>
                             <div class="single-form">

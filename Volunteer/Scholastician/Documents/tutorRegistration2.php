@@ -124,7 +124,9 @@
                         <form id="contact-form" action="class.php" onsubmit="">
 
                             <h5 class="about-title">Which Class/Subject Would You Like To Tutor?</h5>
-                            <p> Unless otherwise specified, each class is suited for AP, PAP/Honors, or On-Level, so you must be ready to tutor a student at any of these levels. You will also have to provide proof of proficiency, such as AP scores or grades. If you have already provided proof earlier, then you will not need to do it again. </p>
+                            <br>
+                            <p> Unless otherwise specified, each class is suited for AP, PAP/Honors, or On-Level, so you must be ready to tutor a student at any of these levels. However, you are not automatically admitted to become a tutor. It will take us some time to review your grades and ensure that you are an eligible tutor. Then, we will contact you via email, and you can be register to be a tutor </p>
+                            <br>
                             <select  class = "select-css" name="class-select" required>
                               <option value="satclass">SAT Tutoring</option>
                               <option value="actclass">ACT Tutoring</option>
@@ -156,11 +158,7 @@
                               <option value="aplang">AP English Language</option>
                               <option value="aplit">AP English Literature</option>
                             </select>
-                            <div class="single-form">
-                              <h5 class="about-title">Upload proof of Proficiency</h5>
-                              <p>In order to ensure the quality of our tutors, you need to email proof of your certifications to support@scholastician.org. You must have or had an A in the class or a 4 or higher if you previously took the class and it is an AP course. Please use the email that you have used to register so we can confirm your identity and we will respond to verify that you have signed up for a class.</p>
-
-                            </div>
+                            <br>
 
                             <br>
 
