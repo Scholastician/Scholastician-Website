@@ -24,7 +24,7 @@ if(isset($_POST['submit'])){
     $file_type = $file ['type'];
     $file_size = $file ['size'];
     $file_path = $file ['tmp_name'];
-    $file_newname = $name.$file_name;
+    $file_newname = $user.'.transcript.'.$file_name;
     $target_dir = 'assets/transcripts/'.$file_newname;
     move_uploaded_file($file_path, $target_dir);
 }
