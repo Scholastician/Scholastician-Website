@@ -506,7 +506,7 @@
                             <a href="index.php" style = "color: white; font-size: 30px; ">
                                 SCHOLASTICIAN
                             </a>
-                            <p class="mt-">Empowering Students for a Better Tomorrow</p>
+                            <p class="mt-">Bridging the Gap in Educational Inequality</p>
                             <ul>
                                 <li><a href="https://www.facebook.com/Scholastician-111874543877312" target="_blank"><i class="lni-facebook-filled"></i></a></li>
                                 <li><a href="https://www.instagram.com/v_scholastician/?hl=en" target="_blank"><i class="lni-instagram-filled"></i></a></li>
