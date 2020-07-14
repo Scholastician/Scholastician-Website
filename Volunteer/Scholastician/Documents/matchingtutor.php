@@ -104,7 +104,7 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] == '1')
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
                             <a class="navbar-brand" href="index.php">
-                                <img src="assets/images/logo1.png" alt="Logo">
+                                <img src="assets/images/logo1.png" width="165" height="40" alt="Logo">
                             </a> <!-- Logo -->
                             <!-- navbar collapse -->
                         </nav> <!-- navbar -->
