@@ -135,7 +135,8 @@
 
                             <h5 class="about-title">Which Class/Subject Would You Like To Tutor?</h5>
                             <br>
-                            <p> Unless otherwise specified, each class is suited for AP, PAP/Honors, or On-Level, so you must be ready to tutor a student at any of these levels. However, you are not automatically admitted to become a tutor. It will take us some time to review your grades and ensure that you are an eligible tutor. Then, we will contact you via email, and you can be register to be a tutor </p>
+                            <p>Unless otherwise specified, each class is suited for AP, PAP/Honors, or On-Level, so you must be ready to tutor a student at any of these levels. However, you are not automatically admitted to become a tutor. It will take us some time to review your grades and ensure that you are an eligible tutor. Then, we will contact you via email and confirm your eligibility.
+                            </p>
                             <br>
                             <select  class = "select-css" name="class-select" required>
                               <option value="satclass">SAT Tutoring</option>
