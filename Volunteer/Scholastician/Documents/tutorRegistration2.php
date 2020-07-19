@@ -42,7 +42,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!--====== Title ======-->
-    <title>Classs Selection</title>
+    <title>Class Selection</title>
     <!--====== Favicon Icon ======-->
     <link rel="shortcut icon" href="assets/images/favicon.jpg" type="image/jpg">
     <!--====== Bootstrap css ======-->
