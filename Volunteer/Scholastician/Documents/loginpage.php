@@ -98,7 +98,7 @@
                 <div class="col-lg-8">
                     <div class="section-title text-center pb-25">
                         <h2 class="title">Login</h2>
-                        <p>Login Below</p>
+                        <p></p>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
@@ -114,7 +114,7 @@
                               <h5 class="about-title">Password</h5>
                                 <input type="password" name="password" placeholder="Password" required>
                             </div>
-                            <p class="form-message">Please ensure all content is filled and accurate before submitting</p>
+                            <p class="form-message">If you forgot your password, please email us at support@scholastician.org.</p>
                             <div class="single-form">
                                 <button class="main-btn" type="submit">Login</button>
                             </div> <!-- single form -->
