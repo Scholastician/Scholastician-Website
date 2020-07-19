@@ -136,7 +136,7 @@
                             </a>
                             <p class="mt-">Bridging the Gap in Educational Inequality</p>
                             <ul>
-                                <li><a href="https://www.facebook.com/Scholastician-111874543877312" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                                <li><a href="https://www.facebook.com/vscholastician" target="_blank"><i class="lni-facebook-filled"></i></a></li>
                                 <li><a href="https://www.instagram.com/v_scholastician/?hl=en" target="_blank"><i class="lni-instagram-filled"></i></a></li>
                                 <li><a href="https://twitter.com/v_scholastician" target="_blank"><i class="lni-twitter-original"></i></a></li>
                                 <li><a href="https://www.linkedin.com/company/65567603" target="_blank"><i class="lni-linkedin-original"></i></a></li>
