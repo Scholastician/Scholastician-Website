@@ -150,6 +150,7 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] == '1')
                             <ul class="navbar-nav ml-auto">
 
                                 <li class="nav-item"><a class="page-scroll" href="#ft">Find Student</a></li>
+                                <li class="nav-item"><a class="page-scroll" href="#accountManagement">Account Management</a></li>
                                 <li class="nav-item"><a class="page-scroll" href="#helloThree">Process</a></li>
                                 <li class="nav-item"><a class="" href="logout.php">Logout</a></li>
                             </ul>
@@ -185,15 +186,7 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] == '1')
                     $name = $row['Name'];
                     echo "<h2 class=\"title\" > Hello $name </h2>";
                     ?>
-
-
-                    <!-- NIHAL&PAVAN :::::: can you do php stuff to show the person's status if they are matched or not? you can delete it if you dont want to do that work -->
-
-
-
-                    <p ><br>Tutors should register and login here for our matching program. Once you are paired with a student, we will send one email to both of you, so that you can communicate with each other. Please contact us via email or through the contact page on our website if you have any issues during your <span id = "helloTwo">tutoring session.</span> </p>
-
-
+                    <p><br>Tutors should register and login here for our matching program. Once you are paired with a student, we will send one email to both of you, so that you can communicate with each other. Please contact us via email or through the contact page on our website if you have any issues during your <span id = "helloTwo">tutoring session.</span> </p>
                 </div> <!-- section title -->
             </div>
         </div> <!-- row -->
@@ -209,6 +202,21 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] == '1')
                     <h5 id = "intro">Ready to tutor?</h5>
 
 
+                </div> <!-- row -->
+                <div class="row justify-content-center text-center">
+
+                    <h5 id = "hi" class="col-md-6 col-sm-8 "><br> <br>After you select and we verify all your classes, it's time to find a student. You will be prompted to enter some information to begin the matching process.</h5>
+                    <div class="col-lg-4 col-md-6 col-sm-8">
+                        <div class="single-service text-center mt-80">
+                            <div class="service-icon">
+                                <i class="lni lni-search"></i>
+                            </div>
+                            <div class="service-content">
+                                <h4 class="service-title"><a href="matchingtutor.php">Find a Student to Tutor</a></h4>
+                                <p>You will recieve an email when matched.</p>
+                            </div>
+                        </div> <!-- single service -->
+                    </div>
                 </div> <!-- row -->
                 <div class="row justify-content-center text-center">
 
@@ -242,8 +250,20 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] == '1')
                     </div>
 
                 </div> <!-- row -->
-                <div class="row justify-content-center text-center">
 
+
+
+
+            </div>
+
+        </div>
+        <div id = "split">
+            <div id = "accountManagement" class = "background text-center">
+                <div class="row justify-content-center">
+                    <h5 id = "intro">Manage your account</h5>
+                </div> <!-- row -->
+
+                <div class="row justify-content-center text-center">
                     <h5 id = "hi" class="col-md-6 col-sm-8 ">Submit your unofficial AP Score Report so we can better certify you for the AP courses you can tutor. To find your unofficial score report:<a style="color:#754ef9" href="https://apscore.collegeboard.org/scores/view-your-scores" target="_blank">Click Here</a></h5>
                     <div class="col-lg-4 col-md-6 col-sm-8">
                         <div class="single-service text-center mt-30">
@@ -283,55 +303,14 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] == '1')
 
 
                 </div> <!-- row -->
-                <div class="row justify-content-center text-center">
 
-                    <h5 id = "hi" class="col-md-6 col-sm-8 "><br> <br>After select and verify all your classes, it's time to find a student. You will be prompted to enter some information to begin the matching process.</h5>
-                    <div class="col-lg-4 col-md-6 col-sm-8">
-                        <div class="single-service text-center mt-80">
-                            <div class="service-icon">
-                                <i class="lni lni-search"></i>
-                            </div>
-                            <div class="service-content">
-                                <h4 class="service-title"><a href="matchingtutor.php">Find a Student to Tutor</a></h4>
-                                <p>You will recieve an email when matched.</p>
-                            </div>
-                        </div> <!-- single service -->
-                    </div>
-
-
-                </div> <!-- row -->
 
 
             </div>
 
         </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        <!-- now what? -->
+<!---Process--->
 
         <div id = "split">
             <div  id="helloThree" class = "background text-center">
@@ -426,7 +405,7 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] == '1')
                         </a>
                         <p class="mt-">Bridging the Gap in Educational Inequality</p>
                         <ul>
-                            <li><a href="https://www.facebook.com/vscholastician" target="_blank"><i class="lni-facebook-filled"></i></a></li>
+                            <li><a href="https://www.facebook.com/Scholastician-111874543877312" target="_blank"><i class="lni-facebook-filled"></i></a></li>
                             <li><a href="https://www.instagram.com/v_scholastician/?hl=en" target="_blank"><i class="lni-instagram-filled"></i></a></li>
                             <li><a href="https://twitter.com/v_scholastician" target="_blank"><i class="lni-twitter-original"></i></a></li>
                             <li><a href="https://www.linkedin.com/company/65567603" target="_blank"><i class="lni-linkedin-original"></i></a></li>
