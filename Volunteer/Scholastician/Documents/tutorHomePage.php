@@ -205,6 +205,22 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] == '1')
                 </div> <!-- row -->
                 <div class="row justify-content-center text-center">
 
+                    <h5 id = "hi" class="col-md-6 col-sm-8">Make sure you are choosing the right classes! Please confirm your classes and elgibility through the icon to the right. </h5>
+                    <div class="col-lg-4 col-md-6 col-sm-8">
+                        <div class="single-service text-center mt-30">
+                            <div class="service-icon">
+                                <i class="lni-write"></i>
+                            </div>
+                            <div class="service-content">
+                                <h4 class="service-title"><a href="tutorRegistration2.php">Choose Classes</a></h4>
+                                <p>Sign up for classes you can teach.</p>
+                            </div>
+                        </div> <!-- single service -->
+                    </div>
+
+                </div> <!-- row -->
+                <div class="row justify-content-center text-center">
+
                     <h5 id = "hi" class="col-md-6 col-sm-8 "><br> <br>After you select and we verify all your classes, it's time to find a student. You will be prompted to enter some information to begin the matching process.</h5>
                     <div class="col-lg-4 col-md-6 col-sm-8">
                         <div class="single-service text-center mt-80">
@@ -218,6 +234,24 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] == '1')
                         </div> <!-- single service -->
                     </div>
                 </div> <!-- row -->
+
+
+                <div class="row justify-content-center text-center">
+
+                    <h5 id = "hi" class="col-md-6 col-sm-8">Already tutor and now want to record your hours. Click on the icon to the right so we can log your hours.</h5>
+                    <div class="col-lg-4 col-md-6 col-sm-8">
+                        <div class="single-service text-center mt-30">
+                            <div class="service-icon">
+                                <i class="lni-website"></i>
+                            </div>
+                            <div class="service-content">
+                                <h4 class="service-title"><a href="volunteerhrs.php">Record Hours</a></h4>
+                                <p>Click here to log your hours</p>
+                            </div>
+                        </div> <!-- single service -->
+                    </div>
+
+                </div> <!-- row -->
                 <div class="row justify-content-center text-center">
 
                     <h5 id = "hi" class="col-md-6 col-sm-8">Before matching, if you have any questions over our program, feel free to contact us or look over the details through the icon to the right.</h5>
@@ -229,22 +263,6 @@ if(!isset($_SESSION['username']) || $_SESSION['student'] == '1')
                             <div class="service-content">
                                 <h4 class="service-title"><a href="readMoreTutors.html">Read More</a></h4>
                                 <p>Want to learn more about registering as a tutor?</p>
-                            </div>
-                        </div> <!-- single service -->
-                    </div>
-
-                </div> <!-- row -->
-                <div class="row justify-content-center text-center">
-
-                    <h5 id = "hi" class="col-md-6 col-sm-8">Make sure you are choosing the right classes! Please confirm your classes and elgibility through the icon to the right. </h5>
-                    <div class="col-lg-4 col-md-6 col-sm-8">
-                        <div class="single-service text-center mt-30">
-                            <div class="service-icon">
-                                <i class="lni-write"></i>
-                            </div>
-                            <div class="service-content">
-                                <h4 class="service-title"><a href="tutorRegistration2.php">Choose Classes</a></h4>
-                                <p>Sign up for classes you can teach.</p>
                             </div>
                         </div> <!-- single service -->
                     </div>
