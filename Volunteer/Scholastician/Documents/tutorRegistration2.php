@@ -80,7 +80,7 @@
     }
     .select-css option {
     font-weight:normal;
-    
+
 }
         #color-text{
             color: #8c1aff
@@ -150,7 +150,7 @@
                             <br>
                             <p>Unless otherwise specified, each class is suited for AP, PAP/Honors, or On-Level, so you must be ready to tutor a student at any of these levels. However, you are not automatically admitted to become a tutor. It will take us some time to review your grades and ensure that you are an eligible tutor. Then, we will contact you via email and confirm your eligibility.
                             </p>
-                            <h5 class="about-title" id="color-text"><br>Note for volunteer hours: 1 hour granted per session</h5>
+                            
                             <br>
                             <select  class = "select-css" name="class-select" required>
                               <option value="satclass">SAT Tutoring</option>
