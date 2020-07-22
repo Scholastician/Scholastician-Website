@@ -213,6 +213,7 @@
                                 <li>
                                     <div class=" d-flex align-items-center">
                                         <div class="info-text">
+                                          <br>
                                             <p>•Algebra 1 & 2</p>
                                             <p>•Geometry</p>
                                             <p>•Pre-Calculus</p>
@@ -225,7 +226,7 @@
                                         </div>
                                     </div> <!-- single info -->
                                 </li>
-
+                                <br>
 
                                 <li>
                                     <div class=" d-flex align-items-center">
