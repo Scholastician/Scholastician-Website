@@ -221,7 +221,7 @@
                                             <br>
                                             <p>•Biology & AP Biology</p>
                                             <p>•Chemistry & AP Chemistry</p>
-                                            <p>•Ap Physics 1, 2, & C</p>
+                                            <p>•AP Physics 1, 2, & C</p>
                                             <p>•AP Environmental Science</p>
                                         </div>
                                     </div> <!-- single info -->
@@ -237,9 +237,9 @@
                                           <p>•AP Government & Economics </p>
                                           <br>
                                           <p>•English 1-4</p>
-                                          <p>•GT Humanities</p>
-                                          <p>•GT American Studies</p>
-                                          <p>•AP Language & Literature</p>
+                                          <p>•AP Language & Composition</p>
+                                          <p>•AP Literature & Composition</p>
+                                          <p>•Computer Science & AP Computer Science</p>
 
                                         </div>
                                         <div class="info-text">
@@ -332,7 +332,7 @@
                     <div class="col-xl-8 col-lg-9">
                         <div class="call-action-content text-center">
                             <h2 class="action-title">Volunteer Hours</h2>
-                            <p>Please request volunteer hours by emailing support@scholastician.org or input support@scholastician.org as the email on Xello, if applicable. Click below for more details about the process.</p>
+                            <p>Once you are done with your tutoring session, please fill out the form in your tutor home page for volunteer hours, so we can track them on our database. If you need to request volunteer hours for your school system, please enter support@scholastician.org as the email and we will approve them, if necessary. Click below for more details about the process.</p>
                             <ul>
                                 <li><a class="main-btn custom" href="readMoreStudents.html">Students</a></li>
                                 <li><a class="main-btn custom-2" href="readMoreTutors.html">Tutors</a></li>
@@ -407,7 +407,7 @@
                     <div class="section-title text-center pb-30">
                         <h2 class="title">Tutors</h2>
                         <p>Tutors should register and login here for our matching program. Once your credentials are verified, you will be notified that you are approved for tutoring. Once you are paired with a student, we will send one email to both of you, so that you can communicate with each other. Please contact us via email if you have any issues during your tutoring session. </p>
-                        <h5 class="about-title" id="color-text"><br>Please request volunteer hours by emailing support@scholastician.org or input support@scholastician.org as the email on Xello, if applicable.</h5>
+                        <h5 class="about-title" id="color-text"><br>Once you are done with your tutoring session, please fill out the form in your tutor home page for volunteer hours, so we can track them on our database. If you need to request volunteer hours for your school system, please enter support@scholastician.org as the email and we will approve them, if necessary.</h5>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
