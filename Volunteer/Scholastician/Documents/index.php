@@ -406,7 +406,8 @@
                 <div class="col-lg-8">
                     <div class="section-title text-center pb-30">
                         <h2 class="title">Tutors</h2>
-                        <p>Tutors should register and login here for our matching program. Once your credentials are verified, you will be notified that you are approved for tutoring. Once you are paired with a student, we will send one email to both of you, so that you can communicate with each other. Please request volunteer hours by emailing support@scholastician.org or input support@scholastician.org as the email on Xello, if applicable. Please contact us via email if you have any issues during your tutoring session. </p>
+                        <p>Tutors should register and login here for our matching program. Once your credentials are verified, you will be notified that you are approved for tutoring. Once you are paired with a student, we will send one email to both of you, so that you can communicate with each other. Please contact us via email if you have any issues during your tutoring session. </p>
+                        <h5 class="about-title" id="color-text"><br>Please request volunteer hours by emailing support@scholastician.org or input support@scholastician.org as the email on Xello, if applicable.</h5>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
