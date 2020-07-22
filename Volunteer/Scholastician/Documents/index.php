@@ -199,7 +199,7 @@
                     <div class="col-lg-8">
                         <div class="section-title text-center">
                             <h2 class="title">About Us</h2>
-                            <p>We are truly passionate in fighting the global inequality in education, which has been especially underscored by the lack of opportunities as a result of financial and social issues during COVID-19. That’s why we developed Scholastician, a platform which provides equal access to education for all people, no matter one’s financial background. It has become ever so important to give back to the community and because education has been so negatively affected by our current crisis, we felt that developing a virtual tutoring service in this time of uncertainty was the best way to support the community.
+                            <p>We are passionate in fighting the global inequality in education, which has been especially underscored by the lack of opportunities as a result of financial and social issues during COVID-19. That’s why we developed Scholastician, a platform which provides equal access to education for all people, no matter one’s financial background.
 </p>
                         </div> <!-- section title -->
                     </div>
@@ -220,8 +220,8 @@
                                             <br>
                                             <p>•Biology & AP Biology</p>
                                             <p>•Chemistry & AP Chemistry</p>
-                                            <p>•Physics 1, 2, C</p>
-                                            <p>•Environmental Science</p>
+                                            <p>•Ap Physics 1, 2, & C</p>
+                                            <p>•AP Environmental Science</p>
                                         </div>
                                     </div> <!-- single info -->
                                 </li>
@@ -229,16 +229,17 @@
 
                                 <li>
                                     <div class=" d-flex align-items-center">
-                                        <div class="info-icon">
+                                        <div class="info-text">
                                           <p>•AP Human Geography</p>
                                           <p>•AP World History</p>
                                           <p>•AP US History</p>
                                           <p>•AP Government & Economics </p>
                                           <br>
                                           <p>•English 1-4</p>
-                                          <p>•SAT English</p>
-                                          <p>•AP Language and Composition</p>
-                                          <p>•AP Literature & Composition</p>
+                                          <p>•GT Humanities</p>
+                                          <p>•GT American Studies</p>
+                                          <p>•AP Language & Literature</p>
+
                                         </div>
                                         <div class="info-text">
 
@@ -256,14 +257,14 @@
                                     <h6 class="skill-title">Average Tutor SAT Score</h6>
                                     <div class="skill-percentage">
                                         <div class="count-box counted">
-                                            <span class="counter">1550</span>
+                                            <span class="counter">1530</span>
                                         </div>
 
                                     </div>
                                 </div>
                                 <div class="skill-bar">
                                     <div class="bar-inner">
-                                        <div class="bar progress-line" data-width="97"></div>
+                                        <div class="bar progress-line" data-width="95"></div>
                                     </div>
                                 </div>
                             </div> <!-- skill item -->
@@ -288,7 +289,7 @@
                                     <h6 class="skill-title">Average Tutor AP Score</h6>
                                     <div class="skill-percentage">
                                         <div class="count-box counted">
-                                            <span class="counter">4.7</span>
+                                            <span class="counter">4.5</span>
                                         </div>
 
                                     </div>
@@ -329,8 +330,8 @@
                 <div class="row justify-content-center">
                     <div class="col-xl-8 col-lg-9">
                         <div class="call-action-content text-center">
-                            <h2 class="action-title">Read More</h2>
-                            <p>Want to learn more about how Scholastician works? Click below.</p>
+                            <h2 class="action-title">Volunteer Hours</h2>
+                            <p>Please request volunteer hours by emailing support@scholastician.org or input support@scholastician.org as the email on Xello, if applicable. Click below for more details about the process.</p>
                             <ul>
                                 <li><a class="main-btn custom" href="readMoreStudents.html">Students</a></li>
                                 <li><a class="main-btn custom-2" href="readMoreTutors.html">Tutors</a></li>
@@ -404,7 +405,7 @@
                 <div class="col-lg-8">
                     <div class="section-title text-center pb-30">
                         <h2 class="title">Tutors</h2>
-                        <p>Tutors should register and login here for our matching program. Once your credentials are checked and you are paired with a student, we will send one email to both of you, so that you can communicate with each other. If you need volunteer hours, please request them from the student. Please contact us via email if you have any issues during your tutoring session. </p>
+                        <p>Tutors should register and login here for our matching program. Once your credentials are verified, you will be notified that you are approved for tutoring. Once you are paired with a student, we will send one email to both of you, so that you can communicate with each other. Please request volunteer hours by emailing support@scholastician.org or input support@scholastician.org as the email on Xello, if applicable. Please contact us via email if you have any issues during your tutoring session. </p>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
