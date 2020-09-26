@@ -239,7 +239,7 @@
                                           <p>•English 1-4</p>
                                           <p>•AP Language & Composition</p>
                                           <p>•AP Literature & Composition</p>
-                                          <p>•Computer Science & AP Computer Science</p>
+                                          <p>•AP Computer Science</p>
 
                                         </div>
                                         <div class="info-text">
@@ -258,14 +258,14 @@
                                     <h6 class="skill-title">Average Tutor SAT Score</h6>
                                     <div class="skill-percentage">
                                         <div class="count-box counted">
-                                            <span class="counter">1530</span>
+                                            <span class="counter">1540</span>
                                         </div>
 
                                     </div>
                                 </div>
                                 <div class="skill-bar">
                                     <div class="bar-inner">
-                                        <div class="bar progress-line" data-width="95"></div>
+                                        <div class="bar progress-line" data-width="96"></div>
                                     </div>
                                 </div>
                             </div> <!-- skill item -->
@@ -290,14 +290,14 @@
                                     <h6 class="skill-title">Average Tutor AP Score</h6>
                                     <div class="skill-percentage">
                                         <div class="count-box counted">
-                                            <span class="counter">4.5</span>
+                                            <span class="counter">4.7</span>
                                         </div>
 
                                     </div>
                                 </div>
                                 <div class="skill-bar">
                                     <div class="bar-inner">
-                                        <div class="bar progress-line" data-width="94"></div>
+                                        <div class="bar progress-line" data-width="96"></div>
                                     </div>
                                 </div>
                             </div> <!-- skill item -->
@@ -306,8 +306,7 @@
                                     <h6 class="skill-title">Average Tutor GPA</h6>
                                     <div class="skill-percentage">
                                         <div class="count-box counted">
-                                            <span class="counter">3.97</span>
-                                        </div>
+                                            <span class="counter">3.98</span>
 
                                     </div>
                                 </div>
@@ -316,32 +315,17 @@
                                         <div class="bar progress-line" data-width="99"></div>
                                     </div>
                                 </div>
+
                             </div> <!-- skill item -->
                         </div> <!-- about skills -->
                     </div>
                 </div>
                 <!-- row -->
+
                         </div> <!-- section title -->
                     </div>
                 </div>
-            </div> <!-- container -->
-        </section>
-        <section id="call-to-action" class="call-to-action pt-125 pb-130 bg_cover" style="background-image: url(assets/images/call-to-action.jpg)">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-xl-8 col-lg-9">
-                        <div class="call-action-content text-center">
-                            <h2 class="action-title">Volunteer Hours</h2>
-                            <p>Once you are done with your tutoring session, please fill out the form in your tutor home page for volunteer hours, so we can track them on our database. If you need to request volunteer hours for your school system, please enter support@scholastician.org as the email and we will approve them, if necessary. Click below for more details about the process.</p>
-                            <ul>
-                                <li><a class="main-btn custom" href="readMoreStudents.html">Students</a></li>
-                                <li><a class="main-btn custom-2" href="readMoreTutors.html">Tutors</a></li>
-                            </ul>
-                        </div> <!-- call action content -->
-                    </div>
-                </div> <!-- row -->
-            </div> <!-- container -->
-        </section>
+
 
         <!--====== ABOUT PART ENDS ======-->
     <!--====== STUDENT PART START ======-->
@@ -516,6 +500,24 @@
     </section>
 
     <!--====== CONTACT PART ENDS ======-->
+
+  </section>
+  <section id="call-to-action" class="call-to-action pt-125 pb-130 bg_cover" style="background-image: url(assets/images/call-to-action.jpg)">
+      <div class="container">
+          <div class="row justify-content-center">
+              <div class="col-xl-8 col-lg-9">
+                  <div class="call-action-content text-center">
+                      <h2 class="action-title">Student and Tutor Testimonials</h2>
+                      <p>Once you are done with your tutoring session, please fill out the form in your tutor home page for volunteer hours, so we can track them on our database. If you need to request volunteer hours for your school system, please enter support@scholastician.org as the email and we will approve them, if necessary. Click below for more details about the process.</p>
+                      <ul>
+                          <li><a class="main-btn custom" href="readMoreStudents.html">Students</a></li>
+                          <li><a class="main-btn custom-2" href="readMoreTutors.html">Tutors</a></li>
+                      </ul>
+                  </div> <!-- call action content -->
+              </div>
+          </div> <!-- row -->
+      </div> <!-- container -->
+  </section>
 
     <!--====== FOOTER PART START ======-->
 
